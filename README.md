@@ -3,4 +3,4 @@ Syalita Widyandini
 3.34.21.3.23
 IK-2D
 ## Pertemuan ke 8
-![alt text](https://github.com/syalitaas/Wisata_Pantai_Base_G/issues/1#issue-1431238147)
+![pantai base g](https://user-images.githubusercontent.com/117131647/199218338-2fb042f1-b38c-42b4-8097-40d0bb956421.png)
